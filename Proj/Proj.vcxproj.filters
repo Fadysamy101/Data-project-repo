@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Templates DS">
+      <UniqueIdentifier>{7e4c8270-2455-448f-b538-132905342b32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core Files">
+      <UniqueIdentifier>{0a94c39e-8b96-407f-8646-0cad5db0241b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core Files\Earth Army">
+      <UniqueIdentifier>{ad69738e-e7b7-4aa9-aa91-e640ba2771aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core Files\Alien Army">
+      <UniqueIdentifier>{d234dc76-8c1f-4b8e-9811-cb9cffc8df03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="earthArmy.cpp">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClCompile>
+    <ClCompile Include="EG.cpp">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClCompile>
+    <ClCompile Include="ES.cpp">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClCompile>
+    <ClCompile Include="ET.cpp">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClCompile>
+    <ClCompile Include="alienArmy.cpp">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClCompile>
+    <ClCompile Include="AM.cpp">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClCompile>
+    <ClCompile Include="AS.cpp">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClCompile>
+    <ClCompile Include="unit.cpp">
+      <Filter>Core Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AD.cpp">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Core Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unitRand.cpp">
+      <Filter>Core Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Core Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KilledList.cpp">
+      <Filter>Core Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HU.cpp">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClCompile>
+    <ClCompile Include="UML.cpp">
+      <Filter>Header Files\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="earthArmy.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+    <ClInclude Include="EG.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+    <ClInclude Include="ES.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+    <ClInclude Include="ET.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+    <ClInclude Include="StackADT.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueADT.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="priQueue.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="priNode.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayStack.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="AM.h">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClInclude>
+    <ClInclude Include="AS.h">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClInclude>
+    <ClInclude Include="alienArmy.h">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClInclude>
+    <ClInclude Include="Arr_Bag.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="unit.h">
+      <Filter>Core Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AD.h">
+      <Filter>Core Files\Alien Army</Filter>
+    </ClInclude>
+    <ClInclude Include="unitRand.h">
+      <Filter>Core Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DervQueue.h">
+      <Filter>Templates DS</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Core Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KilledList.h">
+      <Filter>Core Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HU.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+    <ClInclude Include="HealList.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+    <ClInclude Include="UML.h">
+      <Filter>Core Files\Earth Army</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
